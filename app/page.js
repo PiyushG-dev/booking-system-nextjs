@@ -9,7 +9,7 @@ export default function Home() {
             <Link href="/calendly">Calendly</Link>
           </li>
           <li>
-            <Link href="/calendly">Alternative</Link>
+            <Link href="/calcom">calcom</Link>
           </li>
         </ul>
       </div>
